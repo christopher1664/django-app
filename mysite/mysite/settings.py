@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-0(15lhulqt=g0yx*d)kiu6y&=u2ihxhq+=k4)zcg2cds!*&g9h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["git.heroku.com/csci499.git"]
 
 
 # Application definition
